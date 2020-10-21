@@ -1,0 +1,10 @@
+C:\Rafael Barbosa\PWBE\SigaoMestre\SigaoMestre\bin\Debug\SigaoMestre.exe.config
+C:\Rafael Barbosa\PWBE\SigaoMestre\SigaoMestre\bin\Debug\SigaoMestre.exe
+C:\Rafael Barbosa\PWBE\SigaoMestre\SigaoMestre\bin\Debug\SigaoMestre.pdb
+C:\Rafael Barbosa\PWBE\SigaoMestre\SigaoMestre\obj\Debug\SigaoMestre.csprojAssemblyReference.cache
+C:\Rafael Barbosa\PWBE\SigaoMestre\SigaoMestre\obj\Debug\SigaoMestre.Properties.Resources.resources
+C:\Rafael Barbosa\PWBE\SigaoMestre\SigaoMestre\obj\Debug\SigaoMestre.csproj.GenerateResource.cache
+C:\Rafael Barbosa\PWBE\SigaoMestre\SigaoMestre\obj\Debug\SigaoMestre.csproj.CoreCompileInputs.cache
+C:\Rafael Barbosa\PWBE\SigaoMestre\SigaoMestre\obj\Debug\SigaoMestre.exe
+C:\Rafael Barbosa\PWBE\SigaoMestre\SigaoMestre\obj\Debug\SigaoMestre.pdb
+C:\Rafael Barbosa\PWBE\SigaoMestre\SigaoMestre\obj\Debug\SigaoMestre.GameForm.resources
